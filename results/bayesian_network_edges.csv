@@ -1,0 +1,10 @@
+Source,Target
+BRCA,gene_17801
+gene_17801,gene_9652
+gene_6876,gene_18746
+gene_6876,gene_9652
+gene_6876,BRCA
+gene_18746,BRCA
+gene_7964,gene_17801
+gene_7964,gene_18746
+gene_7964,gene_9652
